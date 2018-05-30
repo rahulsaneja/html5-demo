@@ -1,0 +1,15 @@
+body{
+	background-color: #ddd;
+	font-family: sans-serif;
+}
+.wrap{
+	width: 600px;
+	margin: auto;
+}
+.box{
+	border: solid;
+	border-color: white;
+	border-width: 1;
+	padding: 10;
+	text-align: center;
+}
